@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Paul Howard.
 
-<!--
-**phoward/phoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product executive focused on building products, platforms, teams, and new business capabilities inside complex enterprises.
 
-Here are some ideas to get you started:
+My work has centered on helping organizations navigate major technology transitions, from broadband and mobile to digital platforms and, today, enterprise AI. I enjoy turning emerging technologies into practical products that create value for customers, employees, and businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I share practical experiments, tools, frameworks, and workflows related to enterprise AI, product management, and product leadership.
+
+Everything published here is based on real-world application, generalized for public use, and intentionally excludes confidential or proprietary information.
+
+## Current Focus
+
+- Enterprise AI
+- Product strategy
+- Product leadership
+- AI-enabled product management
+- Executive communication
+- Practical AI workflows
+
+## Philosophy
+
+Technology creates value only when it solves real customer and business problems.
+
+AI is changing how products are built, but the fundamentals of product leadership remain the same.
