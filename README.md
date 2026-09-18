@@ -1,24 +1,26 @@
 # Hi, I'm Paul Howard.
 
-I'm a product executive focused on building products, platforms, teams, and new business capabilities inside complex enterprises.
+I'm a product executive and builder focused on creating products, businesses, teams, platforms, and new capabilities in complex environments.
 
-My work focuses on helping organizations navigate major technology transitions, from broadband and mobile to digital platforms and, today, enterprise AI. I enjoy turning emerging technologies into practical products that create value for customers, employees, and businesses.
+My work combines customer and business strategy, zero-to-one building, cross-functional execution, and leadership through technology and organizational change.
 
-This GitHub is where I share practical experiments, tools, frameworks, and workflows related to enterprise AI, product management, and product leadership.
+I'm increasingly exploring how AI changes the way products get built: how quickly ideas can become working experiments, how product leaders stay closer to the work, and how people and AI workers operate together.
 
-Everything published here is based on real-world application, generalized for public use, and intentionally excludes confidential or proprietary information.
+This GitHub is where I learn by building. I use it for practical experiments with agents, evals, system design, workflows, prototypes, and other parts of modern product development.
 
-## Current Focus
+Everything here is based on my own learning and experimentation and is generalized for public use. No confidential or proprietary information.
 
-- Enterprise AI
-- Product strategy
-- Product leadership
-- AI-enabled product management
-- Executive communication
-- Practical AI workflows
+Current Focus
 
-## Philosophy
+AI agents and workflows
+Modern product building
+Product and system design
+Evals and experimentation
+Product leadership and team design
+Turning emerging technology into customer and business outcomes
 
-Technology creates value only when it solves real customer and business problems.
+Philosophy
 
-AI is changing how products are built, but the fundamentals of product leadership remain the same.
+Technology matters when it creates meaningful customer and business outcomes.
+
+AI is dramatically expanding what an individual can build. I'm interested in what that changes about product development, product leadership, and the teams we build around both people and AI.
